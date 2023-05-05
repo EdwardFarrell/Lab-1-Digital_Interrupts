@@ -33,7 +33,6 @@ void flip_up()
  {
     lcd.locate(0,10);
     lcd.printf("Left\n");
-    wait(2);
   }
 
   void flip_right()
