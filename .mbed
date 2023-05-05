@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/Lab 1 Digital Interrupts]=101000000000000000000002F7F47CAE
+DEVICE_TYPE[/home/studio/workspace/Lab 1 Digital Interrupts]=connected
+TARGET=LPC1768
+TARGET_CODE=1010
